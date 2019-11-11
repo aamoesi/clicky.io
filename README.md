@@ -7,4 +7,9 @@ For this assignment, you'll create a memory game with React. This assignment wil
 * The user's score should be reset to 0 if they click the same image more than once.
 * Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 * Once the user's score is reset after an incorrect guess, the game should restart.
+
 ![GitHub Logo](https://github.com/aamoesi/clicky.io/blob/master/public/assets/images/screenshot.jpg)
+![Alt Text](https://github.com/aamoesi/clicky.io/blob/master/public/assets/images/screenshot.jpg
+)
+
+![GitHub Logo](./public/assets/images/screenshot.JPG)
