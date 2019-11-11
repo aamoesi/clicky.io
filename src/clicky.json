@@ -1,0 +1,85 @@
+[
+        {
+            "id": 1,
+            "name": "Buzz",
+            "image": "./assets/images/buzz.jpeg",
+            "clicked": false
+        },
+
+        {
+            "id": 2,
+            "name": "Woody",
+            "image": "./assets/images/woody.jpeg",
+            "clicked": false
+        },
+
+        {
+            "id": 3,
+            "name": "Bo",
+            "image": "./assets/images/bo.jpg",
+            "clicked": false  
+        },
+
+        {
+            "id": 4,
+            "name": "Hamm",
+            "image": "./assets/images/hamm.jpg",
+            "clicked": false  
+        },
+
+        {
+            "id": 5,
+            "name": "Slinky",
+            "image": "./assets/images/slinky.jpg",
+            "clicked": false  
+        },
+
+        {
+            "id": 6,
+            "name": "Potato Head",
+            "image": "./assets/images/mrpotatohead.jpg",
+            "clicked": false  
+        },
+
+        {
+            "id": 7,
+            "name": "Sarge",
+            "image": "./assets/images/sarge.jpg",
+            "clicked": false  
+        },
+
+        {
+            "id": 8,
+            "name": "Andy",
+            "image": "./assets/images/andy.jpg",
+            "clicked": false  
+        },
+
+        {
+            "id": 9,
+            "name": "Sid",
+            "image": "./assets/images/sid.png",
+            "clicked": false  
+        },
+
+        {
+            "id": 10,
+            "name": "Shark",
+            "image": "./assets/images/shark.jpg",
+            "clicked": false  
+        },
+
+        {
+            "id": 11,
+            "name": "Mrs. Potato Head",
+            "image": "./assets/images/mrspotatohead.jpg",
+            "clicked": false  
+        },
+
+        {
+            "id": 12,
+            "name": "Rex",
+            "image": "./assets/images/rex.jpeg",
+            "clicked": false  
+        }
+]

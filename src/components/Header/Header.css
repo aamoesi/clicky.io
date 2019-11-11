@@ -1,19 +1,30 @@
 .header {
-    padding: 1rem;
+    background-image: url(/assets/images/clouds2.jpg);
+    background-size: cover;
+    min-height: 400px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+    display: block;
+    margin-bottom: 50px;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25);
+    /* font-family: 'Open Sans', sans-serif; */
 }
 
-h1 {
-    text-align: center;
+.headerText {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: #e10024;
+    padding: 30px;
+    width: 700px;
+    margin: 0 auto;
 }
 
-#instructions {
-    text-align: center;
-    color: #48585a;
-}
-
-li {
-    display: inline-block;
-    width: 50%;
-    text-align: center;
-    font-size: 1.5rem;
+.logo {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    
 }
