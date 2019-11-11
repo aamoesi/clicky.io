@@ -11,5 +11,3 @@ For this assignment, you'll create a memory game with React. This assignment wil
 ![GitHub Logo](https://github.com/aamoesi/clicky.io/blob/master/public/assets/images/screenshot.jpg)
 ![Alt Text](https://github.com/aamoesi/clicky.io/blob/master/public/assets/images/screenshot.jpg
 )
-
-![GitHub Logo](./public/assets/images/screenshot.JPG)
