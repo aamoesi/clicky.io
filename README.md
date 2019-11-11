@@ -1,4 +1,5 @@
 # Clicky Game
+
 You’ll visit a page with twelve images that are randomly ordered. Your goal is to click all twelve images—but to only click each image a single time. Sounds easy? You’d be surprised. Oh, and the images will shuffle themselves after every click.
 
 ## Overview
