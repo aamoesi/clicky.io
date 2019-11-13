@@ -93,7 +93,7 @@ class App extends Component {
         </Navbar>
 
         <Header>
-          <img className="logo" src="./assets/images/logo.png" alt="Toy Story Logo" />
+          {/* <img className="logo" src="./assets/images/logo.png" alt="Toy Story Logo" /> */}
           <h3 className="headerText">Win the game by clicking each picture only once!</h3>
         </Header>
 
